@@ -10,8 +10,8 @@ With reference to:
 Clone the source code locally
 
 ```bash
-cd Desktop/ && git clone https://github.com/axjtan/ImageRecognitionExample.git
-cd ImageRecognitionExample/ && npm install
+cd Desktop/ && git clone https://github.com/axjtan/ImageRecognition2Example.git
+cd ImageRecognition2Example/ && npm install
 ```
 
 Run on Android:
